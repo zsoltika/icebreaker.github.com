@@ -27,8 +27,6 @@ Currently available color themes:
 * Orange
 * Gray
 
-The curious can check out the script over [here](http://github.com/icebreaker/szabster.net/raw/master/makecss.rb) .
-
 ### End of Line
 
 

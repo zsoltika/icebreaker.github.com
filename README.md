@@ -1,8 +1,10 @@
-h1. This is the data for my blog
+This is the data for my blog
+----------------------------
 
-It is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll into a static site and hosted on GitHub Pages.
+It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll) into a static site and hosted on GitHub Pages.
 
-h1. License
+License
+-------
 
 The following directories and their contents are Copyright Mihail Szabolcs. You may not reuse anything therein without my permission:
 

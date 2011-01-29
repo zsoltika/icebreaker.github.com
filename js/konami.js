@@ -33,12 +33,12 @@ window.konamiCode = function(codeKeys)
 			return window.konamiCodeReset();
 	}
 
-	var panda_src = "http://dl.dropbox.com/u/1012887/www/szabster.net/images/panda/panda.png";
+	var panda_src = "/images/panda/panda.png";
 
 	var d = new Date();
 	if(d.getMonth() == 2 && d.getDate() == 31) //! Happy Birthday Panda!
 	{
-		panda_src = "http://dl.dropbox.com/u/1012887/www/szabster.net/images/panda/panda_birthday.png";
+		panda_src = "/images/panda/panda_birthday.png";
 	}
 
 	var panda = document.createElement("img");

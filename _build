@@ -1,6 +1,6 @@
 #!/bin/bash
 
-jekyll
-mv _site/error/index.html ./404.html
+jekyll --url=http://localhost:4000
+cp _site/error/index.html ./404.html
 rm -rf ./tag
-mv _site/tag .
+cp -rp _site/tag .

@@ -46,18 +46,18 @@ Voila!!!
 
 Here are a few wallpapers i "forged" with this little script :) Enjoy! (click to see the bigger version)
 
-<a class="image" href="/images/2008/04/rihanna_wall1.png"><img class="alignnone size-medium wp-image-162" src="/images/2008/04/rihanna_wall1.png?w=400" alt="" width="400" height="132" /></a>
+<a class="image" href="{{ site.url }}/images/2008/04/rihanna_wall1.png"><img class="alignnone size-medium wp-image-162" src="{{ site.url }}/images/2008/04/rihanna_wall1.png?w=400" alt="" width="400" height="132" /></a>
 
-<a class="image" href="/images/2008/04/rihanna_wall2.png"><img class="alignnone size-medium wp-image-163" src="/images/2008/04/rihanna_wall2.png?w=400" alt="" width="400" height="132" /></a>
+<a class="image" href="{{ site.url }}/images/2008/04/rihanna_wall2.png"><img class="alignnone size-medium wp-image-163" src="{{ site.url }}/images/2008/04/rihanna_wall2.png?w=400" alt="" width="400" height="132" /></a>
 
-<a class="image" href="/images/2008/04/arielle_wall1.png"><img class="alignnone size-medium wp-image-168" src="/images/2008/04/arielle_wall1.png?w=400" alt="" width="400" height="132" /></a>
+<a class="image" href="{{ site.url }}/images/2008/04/arielle_wall1.png"><img class="alignnone size-medium wp-image-168" src="{{ site.url }}/images/2008/04/arielle_wall1.png?w=400" alt="" width="400" height="132" /></a>
 
-<a class="image" href="/images/2008/04/rihanna_wall3.png"><img class="alignnone size-medium wp-image-164" src="/images/2008/04/rihanna_wall3.png?w=400" alt="" width="400" height="132" /></a>
+<a class="image" href="{{ site.url }}/images/2008/04/rihanna_wall3.png"><img class="alignnone size-medium wp-image-164" src="{{ site.url }}/images/2008/04/rihanna_wall3.png?w=400" alt="" width="400" height="132" /></a>
 
-<a class="image" href="/images/2008/04/swanepoel_wall1.png"><img class="alignnone size-medium wp-image-165" src="/images/2008/04/swanepoel_wall1.png?w=400" alt="" width="400" height="132" /></a>
+<a class="image" href="{{ site.url }}/images/2008/04/swanepoel_wall1.png"><img class="alignnone size-medium wp-image-165" src="{{ site.url }}/images/2008/04/swanepoel_wall1.png?w=400" alt="" width="400" height="132" /></a>
 
-<a class="image" href="/images/2008/04/elisha_wall1.png"><img class="alignnone size-medium wp-image-166" src="/images/2008/04/elisha_wall1.png?w=400" alt="" width="400" height="132" /></a>
+<a class="image" href="{{ site.url }}/images/2008/04/elisha_wall1.png"><img class="alignnone size-medium wp-image-166" src="{{ site.url }}/images/2008/04/elisha_wall1.png?w=400" alt="" width="400" height="132" /></a>
 
-<a class="image" href="/images/2008/04/angelina_wall1.png"><img class="alignnone size-medium wp-image-167" src="/images/2008/04/angelina_wall1.png?w=400" alt="" width="400" height="132" /></a>
+<a class="image" href="{{ site.url }}/images/2008/04/angelina_wall1.png"><img class="alignnone size-medium wp-image-167" src="{{ site.url }}/images/2008/04/angelina_wall1.png?w=400" alt="" width="400" height="132" /></a>
 
 Oh, I almost forgot to tell that <a title="Click to visit!" href="http://www.ewallpapers.eu" target="_blank">EWallpapers.eu</a> is my number #1 landing place when I'm looking for high resolution wide screen wallpapers ( but not only! ) and also <a title="Click to visit!" href="http://www.hollywooddesktop.com/" target="_blank">Hollywood Desktop</a>.

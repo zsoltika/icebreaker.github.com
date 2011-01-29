@@ -22,7 +22,7 @@ Then restart compiz, and the borders should appear. Of course this assumes that 
 
 I also compiled the latest version of the "Kiba Dock", and played around with the Compiz settings. Now i'm in the hunt for the perfect theme and maybe background ...
 
-<a class="image" href="/images/2008/02/compiz_ubu.png" title="compiz_ubu.png"><img src="/images/2008/02/compiz_ubu.png" alt="compiz_ubu.png" height="409" width="648" /></a>
+<a class="image" href="{{ site.url }}/images/2008/02/compiz_ubu.png" title="compiz_ubu.png"><img src="{{ site.url }}/images/2008/02/compiz_ubu.png" alt="compiz_ubu.png" height="409" width="648" /></a>
 
 May the source be with you, and good night :D
 

@@ -9,7 +9,7 @@ tags:
 - epiphany
 - chrome
 ---
-<a class="image" href="/images/2008/09/about_epiphany.jpg"><img class="size-full wp-image-339 aligncenter" title="about_epiphany" src="/images/2008/09/about_epiphany.jpg" alt="" width="446" height="262" /></a>
+<a class="image" href="{{ site.url }}/images/2008/09/about_epiphany.jpg"><img class="size-full wp-image-339 aligncenter" title="about_epiphany" src="{{ site.url }}/images/2008/09/about_epiphany.jpg" alt="" width="446" height="262" /></a>
 
 I'm one of those who are waiting for the Linux version of Chrome. I downloaded Chrome and even compiled and ran the executable which tests the sub-systems, amazing! lol
 
@@ -21,6 +21,6 @@ In overall, it's really fast and the rendering is good as far as WebKit can go w
 
 I think that I'll give it another try later on ... lol until then viva Firefox 3.0, and waiting for Chrome :D
 
-<a class="image" href="/images/2008/09/linux_games_epiphany.jpg"><img class="alignnone size-thumbnail wp-image-340" title="linux_games_epiphany" src="/images/2008/09/linux_games_epiphany-400x224.jpg" alt="" width="400" height="224" /></a>
+<a class="image" href="{{ site.url }}/images/2008/09/linux_games_epiphany.jpg"><img class="alignnone size-thumbnail wp-image-340" title="linux_games_epiphany" src="{{ site.url }}/images/2008/09/linux_games_epiphany-400x224.jpg" alt="" width="400" height="224" /></a>
 
 Happy Compiling! :)

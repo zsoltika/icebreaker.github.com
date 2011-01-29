@@ -9,7 +9,7 @@ tags:
 ---
 Today, I stumbled across this blog <a href="http://theunixgeek.wordpress.com/">TheUnixGeek</a> and discovered the following:
 
-<a class="image" href="/images/2009/06/epicfail.png"><img class="alignleft size-full wp-image-596" title="epicfail" src="/images/2009/06/epicfail.png" alt="epicfail" width="447" height="137" /></a>
+<a class="image" href="{{ site.url }}/images/2009/06/epicfail.png"><img class="alignleft size-full wp-image-596" title="epicfail" src="{{ site.url }}/images/2009/06/epicfail.png" alt="epicfail" width="447" height="137" /></a>
 
 <em><strong>EPIC FAIL!!!! </strong></em>(Fellow programmers (but not only) will know what I'm talking about <em>*cough, cough*</em>)
 

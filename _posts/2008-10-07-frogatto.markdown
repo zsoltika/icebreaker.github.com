@@ -50,8 +50,8 @@ make
 ./game
 {% endhighlight %}
 
-<a class="image" href="/images/2008/10/screenshot-game.jpg">
-<img class="alignnone size-thumbnail wp-image-360" title="screenshot-game" src="/images/2008/10/screenshot-game-400x300.jpg" alt="" width="400" height="300" />
+<a class="image" href="{{ site.url }}/images/2008/10/screenshot-game.jpg">
+<img class="alignnone size-thumbnail wp-image-360" title="screenshot-game" src="{{ site.url }}/images/2008/10/screenshot-game-400x300.jpg" alt="" width="400" height="300" />
 </a>
 
 Enjoy!

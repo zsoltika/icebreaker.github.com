@@ -11,7 +11,7 @@ The whole point of the project is to embed WebKit into a C++ application, expose
 
 What's better for a setup like this than QT? nothing!
 
-<a class="image" href="/images/2010/01/sexygrep.png"><img class="aligncenter size-medium wp-image-798" title="sexygrep" src="/images/2010/01/sexygrep-500x281.png" alt="" width="500" height="281" /></a>
+<a class="image" href="{{ site.url }}/images/2010/01/sexygrep.png"><img class="aligncenter size-medium wp-image-798" title="sexygrep" src="{{ site.url }}/images/2010/01/sexygrep-500x281.png" alt="" width="500" height="281" /></a>
 
 Right now it works under *NIX only, but it shouldn't be hard to make it work under Windows as well; also this can be used as a 'base framework' to build other apps using this mindset. Who the hell needs Adobe Air? Most definitely not me! *sigh*
 

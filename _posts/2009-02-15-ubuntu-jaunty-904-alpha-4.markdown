@@ -22,7 +22,7 @@ For the first time since the very first Ubuntu release, I didn't had to remove t
 
 Anyway I'm most impressed by the improved 'font rendering', it's getting quite close to the smoothed and antialised font look popular and well know from MacOSX. Good job here ;)
 
-<img class="alignnone size-medium wp-image-422" title="font-rendering-ubuntu" src="/images/2009/02/font-rendering-ubuntu-500x236.png" alt="font-rendering-ubuntu" width="500" height="236" />
+<img class="alignnone size-medium wp-image-422" title="font-rendering-ubuntu" src="{{ site.url }}/images/2009/02/font-rendering-ubuntu-500x236.png" alt="font-rendering-ubuntu" width="500" height="236" />
 
 <strong>Font</strong> : <em>Droid Sans Mono</em>
 
@@ -34,6 +34,6 @@ In overall 9.04 alpha 4 is looking rock solid and a lot more responsive, it's re
 
 I also installed the themes, etc. from "Ubuntu Satanic Edition" for Intrepid, so here is a screenshot :)
 
-<a class="image" href="/images/2009/02/desktop.jpg"><img class="alignnone size-thumbnail wp-image-423" title="desktop" src="/images/2009/02/desktop-400x132.jpg" alt="desktop" width="400" height="132" /></a>
+<a class="image" href="{{ site.url }}/images/2009/02/desktop.jpg"><img class="alignnone size-thumbnail wp-image-423" title="desktop" src="{{ site.url }}/images/2009/02/desktop-400x132.jpg" alt="desktop" width="400" height="132" /></a>
 
 To be continued ...

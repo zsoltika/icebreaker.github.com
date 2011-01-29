@@ -20,7 +20,7 @@ Mean aliens land on Dino's peaceful planet intent on blowing it up with lasers a
 <p style="text-align: center;"></p>
 
 
-<a class="image" href="/images/2009/07/dfzz4ggw_803d2qk9xfg_b.jpeg" target="_blank"><img class="size-thumbnail wp-image-611" title="dfzz4ggw_803d2qk9xfg_b" src="/images/2009/07/dfzz4ggw_803d2qk9xfg_b-400x300.jpg" alt="Click for bigger version!" width="400" height="300" /></a>
+<a class="image" href="{{ site.url }}/images/2009/07/dfzz4ggw_803d2qk9xfg_b.jpeg" target="_blank"><img class="size-thumbnail wp-image-611" title="dfzz4ggw_803d2qk9xfg_b" src="{{ site.url }}/images/2009/07/dfzz4ggw_803d2qk9xfg_b-400x300.jpg" alt="Click for bigger version!" width="400" height="300" /></a>
 
 The source code is located in <strong><a title="Get the source!" href="http://github.com/icebreaker/daa/tree/" target="_blank">here</a></strong> ; it's pure ANSI C and will compile pretty much anywhere with a decent ANSI C standard compliant C compiler like GCC.
 

@@ -15,21 +15,21 @@ It's quite simple, I have my **/opt** mounted on a 10GB partition and I install 
 there via 'make install' then just make sure that all the utilities (i.e qmake) are in my path (all the libs in LD_LIBRARY_PATH), so basically
 I can even have multiple versions installed without breaking the "stable" versions residing in **/usr** or **/usr/local** .
 
-<a href="/images/2010/03/qt-creator.png" class="image">
-<img src="/images/2010/03/qt-creator_thumb.png"></a>
+<a href="{{ site.url }}/images/2010/03/qt-creator.png" class="image">
+<img src="{{ site.url }}/images/2010/03/qt-creator_thumb.png"></a>
 
 I also discovered this awesome 'Boxes' demo, I have no idea how long this have been part of the demos, but it's really awesome.
 
-<a href="/images/2010/03/qt-boxes-demo.png" class="image">
-<img src="/images/2010/03/qt-boxes-demo_thumb.png"></a>
+<a href="{{ site.url }}/images/2010/03/qt-boxes-demo.png" class="image">
+<img src="{{ site.url }}/images/2010/03/qt-boxes-demo_thumb.png"></a>
 
 Sooooo *drum rolls* **finally** I was able to get my hands on QML and test it without way any headache as it has landed
 into the 4.7 branch.
 
 With this at my fingertips I was also able to compile QT Creator with the QML related plug-ins enabled. **yaaaayyy**!!?!
 
-<a href="/images/2010/03/qml-designer.png" class="image">
-<img src="/images/2010/03/qml-designer_thumb.png"></a>
+<a href="{{ site.url }}/images/2010/03/qml-designer.png" class="image">
+<img src="{{ site.url }}/images/2010/03/qml-designer_thumb.png"></a>
 
 Here is a short video demoing the 'SameGame' example (part of the declarative samples); it was played and recorded using the
 *official* QML viewer bundled with QT.
@@ -57,14 +57,14 @@ paths (fixed or shader), etc.
 
 ( a couple of *fresh* screens )
 
-<a href="/images/2010/03/0ad-oasis.png" class="image">
-<img src="/images/2010/03/0ad-oasis_thumb.png"></a>
+<a href="{{ site.url }}/images/2010/03/0ad-oasis.png" class="image">
+<img src="{{ site.url }}/images/2010/03/0ad-oasis_thumb.png"></a>
 
-<a href="/images/2010/03/0ad-closeup.png" class="image">
-<img src="/images/2010/03/0ad-closeup_thumb.png"></a>
+<a href="{{ site.url }}/images/2010/03/0ad-closeup.png" class="image">
+<img src="{{ site.url }}/images/2010/03/0ad-closeup_thumb.png"></a>
 
-<a href="/images/2010/03/0ad-animals-closeup.png" class="image">
-<img src="/images/2010/03/0ad-animals-closeup_thumb.png"></a>
+<a href="{{ site.url }}/images/2010/03/0ad-animals-closeup.png" class="image">
+<img src="{{ site.url }}/images/2010/03/0ad-animals-closeup_thumb.png"></a>
 
 The actual code base is quite messy and not everything is clearly separated or grouped together where necessary.
 

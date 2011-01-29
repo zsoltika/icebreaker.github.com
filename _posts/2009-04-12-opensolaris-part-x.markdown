@@ -24,8 +24,8 @@ After this, a regular 'make' will do the job, but when running the executable th
 {% highlight bash %}export LD_LIBRARY_PATH=/opt/csw/lib:$LD_LIBRARY_PATH{% endhighlight %}
 ... there you go :D up and running.
 
-<a class="image" href="/images/2009/04/screen.jpg">
-<img class="alignnone size-thumbnail wp-image-485" title="screen" src="/images/2009/04/screen-400x330.jpg" alt="screen" width="400" height="330" />
+<a class="image" href="{{ site.url }}/images/2009/04/screen.jpg">
+<img class="alignnone size-thumbnail wp-image-485" title="screen" src="{{ site.url }}/images/2009/04/screen-400x330.jpg" alt="screen" width="400" height="330" />
 </a>
 
 Personally, I think that it's an good idea installing all the 3rd party stuff inside the /opt dir instead of /usr or /usr/local, which seems to be a common practice in the existing Linux communities, of course this is more or less a matter of tastes.

@@ -13,4 +13,4 @@ tags:
 ---
 I just had to post this ... click on the image for the bigger version :)
 
-<a class="image" href="/images/2008/06/12127624005pjj3kxwq4_1_1_l.jpg"><img class="alignnone size-medium wp-image-226" title="12127624005pjj3kxwq4_1_1_l" src="/images/2008/06/12127624005pjj3kxwq4_1_1_l-500x452.jpg" alt="" width="500" height="452" /></a>
+<a class="image" href="{{ site.url }}/images/2008/06/12127624005pjj3kxwq4_1_1_l.jpg"><img class="alignnone size-medium wp-image-226" title="12127624005pjj3kxwq4_1_1_l" src="{{ site.url }}/images/2008/06/12127624005pjj3kxwq4_1_1_l-500x452.jpg" alt="" width="500" height="452" /></a>

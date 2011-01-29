@@ -10,8 +10,8 @@ It was about time for a ***status update*** regarding Lemon Tea. I'm trying to k
 it, because this is mainly a prototype and later is to be decided if it is worth continuing and transforming it into
 a full blown *World Editor* for **Lera3D**.
 
-<a href="/images/2010/03/stage03.png" class="image">
-<img src="/images/2010/03/stage03_thumb.png"></a>
+<a href="{{ site.url }}/images/2010/03/stage03.png" class="image">
+<img src="{{ site.url }}/images/2010/03/stage03_thumb.png"></a>
 
 *Highlights*:
 

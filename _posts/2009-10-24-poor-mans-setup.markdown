@@ -15,8 +15,8 @@ So, until I get that fixed (hopefully ... *fingers crossed*) I put my Wibrain to
 
 It works quite well with my 17' widescreen monitor ... so here is my setup ...
 
-<a class="image" href="/images/2009/10/IMG_0005.JPG">
-<img class="size-medium wp-image-679  " title="IMG_0005" src="/images/2009/10/IMG_0005-500x375.jpg" alt="IMG_0005" width="500" height="375" />
+<a class="image" href="{{ site.url }}/images/2009/10/IMG_0005.JPG">
+<img class="size-medium wp-image-679  " title="IMG_0005" src="{{ site.url }}/images/2009/10/IMG_0005-500x375.jpg" alt="IMG_0005" width="500" height="375" />
 </a>
 
 Not bad huh? I would say, not bad at all! :))

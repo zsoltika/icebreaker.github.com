@@ -20,7 +20,7 @@ I will also include a small analysis on the technologies I believe they are usin
 
 This is a lovely GTA 3 clone. It's one of the most impressive game <em>demos</em> I've seen @ a Scene Party ... correct me, if I'm wrong :)
 
-<a class="image" href="/images/2008/09/london_game.jpg"><img class="alignnone size-thumbnail wp-image-300" title="london_game" src="/images/2008/09/london_game-400x300.jpg" alt="" width="400" height="300" /></a>
+<a class="image" href="{{ site.url }}/images/2008/09/london_game.jpg"><img class="alignnone size-thumbnail wp-image-300" title="london_game" src="{{ site.url }}/images/2008/09/london_game-400x300.jpg" alt="" width="400" height="300" /></a>
 
 Game Engine: in-house game engine ( proof GSystem.dll ) . A closer exanimation of the DLL Imports revealed that it's using Direct Input (DINPUT8) for input, and OpenGL (also GLU32 is imported) for rendering.
 
@@ -48,7 +48,7 @@ This amused me a lot ... lol, now I'm scared to death ... haha!
 
 It has an external configuration utility named Config.exe, but it definitely worths checking out the "userdata/settings.script", especially if you wanna enable "debug" mode and a few other interesting stuff, though setting "motion blur" to true, didn't take any effect.
 
-<a class="image" href="/images/2008/09/london_game2.jpg"><img class="alignnone size-thumbnail wp-image-301" title="london_game2" src="/images/2008/09/london_game2-400x290.jpg" alt="" width="400" height="290" /></a>
+<a class="image" href="{{ site.url }}/images/2008/09/london_game2.jpg"><img class="alignnone size-thumbnail wp-image-301" title="london_game2" src="{{ site.url }}/images/2008/09/london_game2-400x290.jpg" alt="" width="400" height="290" /></a>
 
 I didn't go any further, and waiting for new updated versions as promised in the "readme" file :)
 
@@ -56,7 +56,7 @@ I didn't go any further, and waiting for new updated versions as promised in the
 
 This is a really cool shoot-em up arcade game, really immersing, nice graphics, very good music, and good game-play .
 
-<a class="image" href="/images/2008/09/sylph_wind.jpg"><img class="alignnone size-thumbnail wp-image-303" title="sylph_wind" src="/images/2008/09/sylph_wind-400x300.jpg" alt="" width="400" height="300" /></a>
+<a class="image" href="{{ site.url }}/images/2008/09/sylph_wind.jpg"><img class="alignnone size-thumbnail wp-image-303" title="sylph_wind" src="{{ site.url }}/images/2008/09/sylph_wind-400x300.jpg" alt="" width="400" height="300" /></a>
 
 Game Engine: in-house game engine, statically linked, so there is no separate <em>engine</em> dynamic library. Analyzing the imports, this also seems to be using Direct Input for Input (DINPUT8) and OpenGL (also GLU32 is imported ) for rendering.
 
@@ -82,7 +82,7 @@ This is a good game, worth playing :)
 
 This is the typical "rag-doll" type game. No strings attached.
 
-<a class="image" href="/images/2008/09/kiuasturvat.jpg"><img class="alignnone size-thumbnail wp-image-308" title="kiuasturvat" src="/images/2008/09/kiuasturvat-400x300.jpg" alt="" width="400" height="300" /></a>
+<a class="image" href="{{ site.url }}/images/2008/09/kiuasturvat.jpg"><img class="alignnone size-thumbnail wp-image-308" title="kiuasturvat" src="{{ site.url }}/images/2008/09/kiuasturvat-400x300.jpg" alt="" width="400" height="300" /></a>
 
 Game Engine: Irrlicht
 
@@ -94,7 +94,7 @@ Other Notes: N/A :P
 
 Flipout is breakout game with pinball style controls. This is an innovative concept, IMHO ... but at first it's a bit difficult to control.
 
-<a class="image" href="/images/2008/09/flipout.jpg"><img class="alignnone size-thumbnail wp-image-310" title="flipout" src="/images/2008/09/flipout-400x300.jpg" alt="" width="400" height="300" /></a>
+<a class="image" href="{{ site.url }}/images/2008/09/flipout.jpg"><img class="alignnone size-thumbnail wp-image-310" title="flipout" src="{{ site.url }}/images/2008/09/flipout-400x300.jpg" alt="" width="400" height="300" /></a>
 
 It has a Linux port, and obviously uses a great deal of open source libraries.
 
@@ -110,7 +110,7 @@ Uses a virtual filesystem to store most of it's data. The extension of the PAK f
 
 No comments, but not X-rated, neverthless interesting and spicy :P
 
-<a class="image" href="/images/2008/09/frontal_assault.jpg"><img class="alignnone size-thumbnail wp-image-316" title="frontal_assault" src="/images/2008/09/frontal_assault-400x300.jpg" alt="" width="400" height="300" /></a>
+<a class="image" href="{{ site.url }}/images/2008/09/frontal_assault.jpg"><img class="alignnone size-thumbnail wp-image-316" title="frontal_assault" src="{{ site.url }}/images/2008/09/frontal_assault-400x300.jpg" alt="" width="400" height="300" /></a>
 
 Game Engine: in-house game engine. It uses GLUT32 ( proof glut32.dll ) and obviously OpenGL for rendering.
 
@@ -122,7 +122,7 @@ Other Notes: there is no virtual file system, so all the data files are exposed.
 
 This is a nice 2D platform game.
 
-<a class="image" href="/images/2008/09/tribute.jpg"><img class="alignnone size-thumbnail wp-image-317" title="tribute" src="/images/2008/09/tribute-400x300.jpg" alt="" width="400" height="300" /></a>
+<a class="image" href="{{ site.url }}/images/2008/09/tribute.jpg"><img class="alignnone size-thumbnail wp-image-317" title="tribute" src="{{ site.url }}/images/2008/09/tribute-400x300.jpg" alt="" width="400" height="300" /></a>
 
 Game Engine: in-house game engine, uses SDL for rendering.
 
@@ -138,7 +138,7 @@ It has a nice "autoexec.txt" script file, which setups key bindings, pre-loads s
 
 I was talking about no particular order, but I should have mentioned this one right after the 1st two as a 3rd. :P
 
-<a class="image" href="/images/2008/09/dust.jpg"><img class="alignnone size-thumbnail wp-image-319" title="dust" src="/images/2008/09/dust-400x300.jpg" alt="" width="400" height="300" /></a>
+<a class="image" href="{{ site.url }}/images/2008/09/dust.jpg"><img class="alignnone size-thumbnail wp-image-319" title="dust" src="{{ site.url }}/images/2008/09/dust-400x300.jpg" alt="" width="400" height="300" /></a>
 
 Game Engine: in-house game engine. Uses SDL + OpenGL for rendering ( imports GLU32 ). It seems to import GLUT just for gluSolidSphere , also uses GLEW for extension handling. There are lots of XML files, because of the Collada file format ( proof FColladaR.dll, FColladaD.dll ) .
 
@@ -160,7 +160,7 @@ Again, as always I didn't go any further.
 
 This is another GTA clone, with a huge playable level, and lovely graphics.
 
-<a class="image" href="/images/2008/09/tts1.jpg"><img class="alignnone size-thumbnail wp-image-320" title="tts1" src="/images/2008/09/tts1-400x300.jpg" alt="" width="400" height="300" /></a>
+<a class="image" href="{{ site.url }}/images/2008/09/tts1.jpg"><img class="alignnone size-thumbnail wp-image-320" title="tts1" src="{{ site.url }}/images/2008/09/tts1-400x300.jpg" alt="" width="400" height="300" /></a>
 
 Game Engine: in-house game engine, using DirectX8 for rendering and input, it also seems to be written in Delphi 7 which means that it's Object Pascal :) niceeee :) ... just check those nice TParticleSystem, etc. with an hex editor ;) :P
 
@@ -170,7 +170,7 @@ Other Notes: again there is no virtual filesystem, but it does have a proprietar
 
 Textures are in DDS, sounds and music in WAV, MP3 and OGG ... Scripts have the extension "tsl" and the language seems to be a subset of Pascal, combined with some PHP.
 
-<a class="image" href="/images/2008/09/tts2.jpg"><img class="alignnone size-thumbnail wp-image-321" title="tts2" src="/images/2008/09/tts2-400x300.jpg" alt="" width="400" height="300" /></a>
+<a class="image" href="{{ site.url }}/images/2008/09/tts2.jpg"><img class="alignnone size-thumbnail wp-image-321" title="tts2" src="{{ site.url }}/images/2008/09/tts2-400x300.jpg" alt="" width="400" height="300" /></a>
 
 I stopped right here!
 

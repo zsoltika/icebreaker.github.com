@@ -10,6 +10,6 @@ When it comes to fixed size fonts, I prefer "Monaco" :D Also the guy who propose
 
 Here is a screenshot with my very own theme.
 
-<a class="image" href="/images/2008/02/blueish.png" title="blueish.png"><img src="/images/2008/02/blueish.png" alt="blueish.png" border="0" height="396" width="631" /></a>
+<a class="image" href="{{ site.url }}/images/2008/02/blueish.png" title="blueish.png"><img src="{{ site.url }}/images/2008/02/blueish.png" alt="blueish.png" border="0" height="396" width="631" /></a>
 
 If you like it, you can download it right <a href="http://nympho3d.googlecode.com/files/blueish.zip" title="Click here to download!" target="_blank">here</a> .

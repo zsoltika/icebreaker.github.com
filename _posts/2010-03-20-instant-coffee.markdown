@@ -18,7 +18,7 @@ This is a prototype, but it's perfectly enough for my basic editing needs, feel 
 
 The source code can be found on GitHub as usual right [here](http://github.com/icebreaker/instantcoffee) .
 
-**Instant Coffee** is another prime example, just like [SexyGrep](http://www.szabster.net/2010/01/23/sexygrep/) of converting a web app into a desktop app using QT and WebKit, we really don't need Adobe Air and other proprietary bullshit.
+**Instant Coffee** is another prime example, just like [SexyGrep]({{ site.url }}/2010/01/23/sexygrep/) of converting a web app into a desktop app using QT and WebKit, we really don't need Adobe Air and other proprietary bullshit.
 
 ### End of Line
 

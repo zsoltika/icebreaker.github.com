@@ -5,7 +5,7 @@ tags: [reloaded, design, jekyll]
 ---
 
 <a href="http://upload.wikimedia.org/wikipedia/commons/5/57/Dr_Jekyll_and_Mr_Hyde_poster.png" class="image">
-<img src="/images/2010/06/poster_thumb.png"/>
+<img src="{{ site.url }}/images/2010/06/poster_thumb.png"/>
 </a>
 
 ### End of Line

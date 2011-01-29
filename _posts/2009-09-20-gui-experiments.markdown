@@ -20,7 +20,7 @@ Instead of just cheating and positioning the widget on the top of my custom 3D c
 
 Now here is an early screenshot demoing this:
 
-<a class="image" href="/images/2009/09/ui_experiments.png"><img class="aligncenter size-medium wp-image-673" title="ui_experiments" src="/images/2009/09/ui_experiments-500x165.png" alt="ui_experiments" width="500" height="165" /></a>
+<a class="image" href="{{ site.url }}/images/2009/09/ui_experiments.png"><img class="aligncenter size-medium wp-image-673" title="ui_experiments" src="{{ site.url }}/images/2009/09/ui_experiments-500x165.png" alt="ui_experiments" width="500" height="165" /></a>
 
 On the left side it's the actual HTML + CSS, displayed in OpenGL ortho (2D) mode on the right side, drawn on the top of the actual 3D scene with blending.
 

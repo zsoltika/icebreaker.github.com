@@ -14,6 +14,6 @@ I grabbed the sources and compiled it, because I prefer to compile myself where 
 
 ... here is an in-game screenshot:
 
-<a class="image" href="/images/2008/05/screenshot-battle-tanks-5800-beta.png"><img class="alignnone size-medium wp-image-194" src="/images/2008/05/screenshot-battle-tanks-5800-beta.png?w=300" alt="" width="300" height="225" /></a>
+<a class="image" href="{{ site.url }}/images/2008/05/screenshot-battle-tanks-5800-beta.png"><img class="alignnone size-medium wp-image-194" src="{{ site.url }}/images/2008/05/screenshot-battle-tanks-5800-beta.png?w=300" alt="" width="300" height="225" /></a>
 
 If I raised your interest check it out <a href="http://btanks.sourceforge.net" target="_blank">here</a> .

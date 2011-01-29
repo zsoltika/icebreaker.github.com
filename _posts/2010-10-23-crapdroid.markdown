@@ -33,14 +33,14 @@ the components out there and build something awesome; this is the joy of FLOSS.
 
 #### Nokia
 
-![Maemo](/images/2010/10/maemo.png)
+![Maemo]({{ site.url }}/images/2010/10/maemo.png)
 
 How could one possibly go wrong with a combination of [the Linux kernel](kernel.org), [Debian](debian.org) and [Gnome](gnome.org)
 resulting in [Maemo](http://maemo.org/development/) ?
 
 #### Intel
 
-![Moblin](/images/2010/10/moblin.jpg)
+![Moblin]({{ site.url }}/images/2010/10/moblin.jpg)
 
 Just like Nokia, a winner combination of the [the Linux kernel](kernel.org), and [Gnome](gnome.org) resulting in [Moblin](moblin.org) .
 

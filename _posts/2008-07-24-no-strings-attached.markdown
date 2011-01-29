@@ -8,4 +8,4 @@ tags:
 - wife
 - oral
 ---
-<a class="image" href="/images/2008/07/oral.jpg"><img class="alignnone size-full wp-image-255" title="oral" src="/images/2008/07/oral.jpg" alt="" width="350" height="477" /></a>
+<a class="image" href="{{ site.url }}/images/2008/07/oral.jpg"><img class="alignnone size-full wp-image-255" title="oral" src="{{ site.url }}/images/2008/07/oral.jpg" alt="" width="350" height="477" /></a>

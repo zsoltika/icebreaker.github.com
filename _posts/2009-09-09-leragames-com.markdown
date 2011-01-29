@@ -9,4 +9,4 @@ tags:
 ---
 First <em>'baby'</em> <strong>steps</strong> ...
 
-<a href="http://www.leragames.com/" class="image"><img src="/images/leragames.png" alt="LeraGames.com" /></a>
+<a href="http://www.leragames.com/" class="image"><img src="{{ site.url }}/images/leragames.png" alt="LeraGames.com" /></a>

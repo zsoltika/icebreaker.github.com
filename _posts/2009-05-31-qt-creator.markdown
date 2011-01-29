@@ -19,7 +19,7 @@ The first thing I added is a persistent settings dialog for the "Generic Project
 
 I like to keep my "framework" separately from the actual projects using the "framework", this way when something changes in the framework I don't need to bother updating the various copies, this is where Symbolic Links come into the scene.
 
-<a title="Click to see the bigger version." class="image" href="/images/2009/05/screenshot.png" target="_blank"><img class="size-thumbnail wp-image-549" title="Click to see the bigger version." src="/images/2009/05/screenshot-400x132.png" alt="Click to see the bigger version." width="400" height="132" /></a>
+<a title="Click to see the bigger version." class="image" href="{{ site.url }}/images/2009/05/screenshot.png" target="_blank"><img class="size-thumbnail wp-image-549" title="Click to see the bigger version." src="{{ site.url }}/images/2009/05/screenshot-400x132.png" alt="Click to see the bigger version." width="400" height="132" /></a>
 
 Another thing I would like to add (in the near future) is the ability to "add directories" to a project instead of just manually selecting files.
 

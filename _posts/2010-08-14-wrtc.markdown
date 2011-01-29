@@ -15,8 +15,8 @@ More on this over [here](http://www.gamasutra.com/view/news/29903/QuakeCon_id_So
  
 ### Build, Build, Build
 
-<a href="/images/2010/08/wrtc.png" class="image">
-<img src="/images/2010/08/wrtc_thumb.png"/>
+<a href="{{ site.url }}/images/2010/08/wrtc.png" class="image">
+<img src="{{ site.url }}/images/2010/08/wrtc_thumb.png"/>
 </a>
 
 I quickly grabbed the source code of the SP version (**Return to Castle**) and compiled it without any problems in less than a minute

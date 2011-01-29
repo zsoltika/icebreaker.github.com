@@ -7,7 +7,7 @@ article: true
 
 ### The empire strikes back or the return of the Jedi?
 
-After my controversial [CrapDroid](http://www.szabster.net/2010/10/23/crapdroid/) post, it's time for me to 
+After my controversial [CrapDroid]({{ site.url }}/2010/10/23/crapdroid/) post, it's time for me to 
 strike back with another *hot* topic, namely the Java or C# trap for that matter.
 
 The JVM and the .NET CLR are birds of the same feather and they kind of flock

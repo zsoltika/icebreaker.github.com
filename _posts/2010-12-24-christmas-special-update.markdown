@@ -51,7 +51,7 @@ I (and others, a respected closed circle of trustees like *Panda the great*)
 liked *Lera Games* the most; there you go!
 
 As of now [Lera Games](http://www.leragames.com) is a core team of two, 
-[Melissa Davidson](http://www.melissadavidson.net) and [Mihail Szabolcs](http://www.szabster.net) (me!)
+[Melissa Davidson](http://www.melissadavidson.net) and [Mihail Szabolcs]({{ site.url }}) (me!)
 but we are looking into expanding the team over the course of next year, slowly but surely with at
 least one or two additional *artists* and hopefully begin outsourcing some of the *Audio*
 production from this early stage for the first episode of our **Ancestria** *franchise* and *flagship

@@ -28,8 +28,8 @@ Hmm ... this is the most interesting part ... as always. Sooo ... I will dual li
 
 Here it is an early screenshot.
 
-<a href="/images/2010/02/stage01.png" class="image">
-<img src="/images/2010/02/stage01_thumb.png"></a>
+<a href="{{ site.url }}/images/2010/02/stage01.png" class="image">
+<img src="{{ site.url }}/images/2010/02/stage01_thumb.png"></a>
 
 Everything is subject to change in a way or another, but as of now this is how is it looks like.
 

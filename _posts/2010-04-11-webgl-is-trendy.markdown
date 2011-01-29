@@ -40,11 +40,11 @@ This is a very very early version, but this time I stick to *'Release early, rel
 ### Demos
 
 <a href="http://icebreaker.github.com/mini3d/demos/cube/cube.html" class="image">
-<img src="/images/2010/04/cube.png"/>
+<img src="{{ site.url }}/images/2010/04/cube.png"/>
 </a>
 
 <a href="http://icebreaker.github.com/mini3d/demos/clod/clod.html" class="image">
-<img src="/images/2010/04/clod.png"/>
+<img src="{{ site.url }}/images/2010/04/clod.png"/>
 </a>
 
 Click on the images above to start the demos. You will need a WebGL enabled browser in order to watch them; for more information about

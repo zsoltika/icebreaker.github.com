@@ -1,0 +1,6 @@
+#!/bin/bash
+
+jekyll
+mv _site/error/index.html ./404.html
+rm -rf ./tag
+mv _site/tag .

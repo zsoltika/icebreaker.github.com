@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Getting more done
-tags: [rant, work] 
+tags: [rant, work, leragames] 
 ---
 
 I'm a total efficiency freak, always looking and exploring ways of getting out the most of my
